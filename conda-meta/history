@@ -1,0 +1,20 @@
+==> 2018-01-22 21:53:36 <==
+# cmd: C:\Users\alvin\Anaconda3\Scripts\conda create --yes --json --mkdir --prefix C:\Users\alvin\Anaconda3\envs\realpython python=3.6
++defaults::certifi-2017.11.5-py36hb8ac631_0
++defaults::pip-9.0.1-py36h226ae91_4
++defaults::python-3.6.4-h6538335_1
++defaults::setuptools-38.4.0-py36_0
++defaults::vc-14-h0510ff6_3
++defaults::vs2015_runtime-14.0.25123-3
++defaults::wheel-0.30.0-py36h6c3ec14_1
++defaults::wincertstore-0.2-py36h7fe50ca_0
+# create specs: python 3.6*
+==> 2018-01-22 22:21:56 <==
+# cmd: C:\Users\alvin\Anaconda3\Scripts\conda install --yes --json --force-pscheck --prefix C:\Users\alvin\Anaconda3\envs\realpython flask
++defaults::click-6.7-py36hec8c647_0
++defaults::flask-0.12.2-py36h98b5e8f_0
++defaults::itsdangerous-0.24-py36hb6c5a24_1
++defaults::jinja2-2.10-py36h292fed1_0
++defaults::markupsafe-1.0-py36h0e26971_1
++defaults::werkzeug-0.14.1-py36_0
+# update specs: ['flask']
